@@ -66,7 +66,7 @@ More projects coming soon! 🚀
 
 ## 📫 Connect With Me
 
-[LinkedIn] (https://www.linkedin.com/in/Swetha Venkadesan/)  
+[LinkedIn] https://www.linkedin.com/in/swetha-venkadesan-170285320/ 
 [GitHub] (https://github.com/swethavenky/DSA-python)
 
 ---
