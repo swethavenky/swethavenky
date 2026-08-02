@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Swetha!
 
-<!--
-**swethavenky/swethavenky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Engineering Student | Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a pre-final year CSE student passionate about technology, problem-solving, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **DSA, Full-Stack Development & Machine Learning**
+
+💡 Interested in **Data Analytics, Web Development & Business Strategy**
+
+🎯 Preparing for **placements** and continuously improving my problem-solving skills.
+
+---
+
+## 🛠️ Skills
+
+### Programming
+- Python
+- Java
+- C
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+### Data & Tools
+- SQL
+- Excel
+- Power BI
+- Git & GitHub
+
+---
+
+## 🧠 DSA Journey
+
+Currently practicing DSA using **Python** and solving problems on LeetCode.
+
+📌 Check out my DSA solutions:
+👉 [DSA-python](YOUR_DSA_REPOSITORY_LINK)
+
+---
+
+## 🚀 Projects
+
+🔹 Hospital Management System  
+🔹 Unifest Manager  
+🔹 Blogging Platform  
+🔹 Smart Attendance Management System  
+🔹 Data Analytics Projects  
+
+More projects coming soon! 🚀
+
+---
+
+## 📊 My Goals
+
+- 🟢 Solve DSA problems consistently
+- 🟢 Build strong Full-Stack Development skills
+- 🟢 Build meaningful projects
+- 🟢 Improve my GitHub portfolio
+- 🟢 Prepare confidently for placements
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn] (https://www.linkedin.com/in/Swetha Venkadesan/)  
+[GitHub] (https://github.com/swethavenky/DSA-python)
+
+---
+
+### 🌱 Learning every day. Building every day. Growing every day.
